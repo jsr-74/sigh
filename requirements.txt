@@ -1,6 +1,6 @@
-Flask==3.1.1
-waitress==3.0.2
-pyHanko==0.29.1
-cryptography==45.0.5
-Pillow==11.3.0
-requests==2.32.4
+Flask
+waitress
+pyHanko
+cryptography
+Pillow
+requests
